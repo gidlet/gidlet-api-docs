@@ -1,1 +1,1 @@
-// later gonna be used for the docs site
+// Repo Archived, and has been moved to another repository.
